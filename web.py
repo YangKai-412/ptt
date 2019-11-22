@@ -1,3 +1,5 @@
+#爬蟲
+
 import urllib.request as req
 
 import ssl # 在 urllib.error.URLError異常時加入
